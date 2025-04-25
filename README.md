@@ -1,4 +1,5 @@
-# lab7_destini
+# lab7_BMI Calculator
+
 
 A new Flutter project.
 
